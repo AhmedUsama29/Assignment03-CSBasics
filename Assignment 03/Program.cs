@@ -102,7 +102,7 @@
 
             #endregion
 
-            #region Question 05:Create a program that asks the user to input three points (x1, y1), (x2, y2), and (x3, y3), and determines whether these points lie on a single straight line.
+            #region Question 05: Create a program that asks the user to input three points (x1, y1), (x2, y2), and (x3, y3), and determines whether these points lie on a single straight line.
             ////no need to do try parse [i get it]
 
             //Console.WriteLine("Enter the coordinates for point 1 (x1, y1):");
@@ -135,6 +135,43 @@
             //    Console.WriteLine("The points do not lie on a single straight line.");
             //}
 
+
+            #endregion
+
+            #region Question 06: Within a company, the efficiency of workers is evaluated based on the duration required ,To calculate the efficiency of a worker, the time taken for the task is obtained via user input from the keyboard.
+
+            //Console.Write("Enter the time taken to complete the task: ");
+            //string time = Console.ReadLine();
+            //bool flag = double.TryParse(time, out double hours);
+
+            //if (flag)
+            //{
+                
+            //    if (hours >= 2 && hours <= 3)
+            //    {
+            //        Console.WriteLine("Highly efficient.");
+            //    }
+            //    else if (hours > 3 && hours <= 4)
+            //    {
+            //        Console.WriteLine("Increase your speed.");
+            //    }
+            //    else if (hours > 4 && hours <= 5)
+            //    {
+            //        Console.WriteLine("You need training to improve your speed.");
+            //    }
+            //    else if (hours > 5)
+            //    {
+            //        Console.WriteLine("You are required to leave the company.");
+            //    }
+            //    else
+            //    {
+            //        Console.WriteLine("Invalid input. Time cannot be less than 2 hours.");
+            //    }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Invalid input. Please enter a valid number for time.");
+            //}
 
             #endregion
         }
